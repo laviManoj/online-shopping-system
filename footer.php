@@ -10,9 +10,9 @@
 								<h3 class="footer-title">About Us</h3>
 								
 								<ul class="footer-links">
-									<li><a href="#"><i class="fa fa-map-marker"></i>address</a></li>
-									<li><a href="#"><i class="fa fa-phone"></i>9846372444</a></li>
-									<li><a href="#"><i class="fa fa-envelope-o"></i>abc@gmail.com</a></li>
+									<li><a href="#"><i class="fa fa-map-marker"></i>Smt. Indira Gandhi Government First Grade Womens College</a></li>
+									<li><a href="#"><i class="fa fa-phone"></i>081832 27078</a></li>
+									<li><a href="#"><i class="fa fa-envelope-o"></i>indiragfgwc.sgr@gmail.com</a></li>
 								</ul>
 							</div>
 						</div>
@@ -27,7 +27,7 @@
 							</ul>
 							<span class="copyright">
 								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-								Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
+								Copyright &copy;<script>document.write(new Date().getFullYear());</script> Namrutha,Sahana,Sowmya All rights reserved
 							
 							</span>
 						</div>
